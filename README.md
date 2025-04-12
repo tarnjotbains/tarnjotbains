@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB3dWVxMjdobjY0eDNydHA5aDh4aHVma2d4Zm00amI0bmVkczB6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif">
+</p>
+
 <!--
 **tarnjotbains/tarnjotbains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
