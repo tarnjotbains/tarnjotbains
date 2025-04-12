@@ -11,6 +11,7 @@
 
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftarnjotbains%2F)](https://www.linkedin.com/in/tarnjotbains/) [![Static Badge](https://img.shields.io/badge/LeetCode-purple?style=for-the-badge&link=https%3A%2F%2Fleetcode.com%2Fu%2Ftarnjot%2F)](https://leetcode.com/u/tarnjot/) [![Static Badge](https://img.shields.io/badge/StrataScratch-purple?style=for-the-badge&link=https%3A%2F%2Fplatform.stratascratch.com%2Fuser%2Ftbvxns)](https://platform.stratascratch.com/user/tbvxns)
+[![Static Badge](https://img.shields.io/badge/Work%20GitHub-purple?style=for-the-badge)](https://github.com/btarnjot-antuit)
  [![Static Badge](https://img.shields.io/badge/Send%20Me%20An%20Email-purple?style=for-the-badge)
 ](mailto:tarnjotbains@gmail.com)
 
