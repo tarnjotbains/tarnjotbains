@@ -3,7 +3,7 @@
 
 **AI Scientist** @ Zebra Technologies building scalable pipelines.
 
-**Current Goals 🎯** Full-stack ML infra, MLOps certs, Kubernetes (CKA)
+**Current Goals 🎯** Full-stack ML infra, MLOps certs, Kubernetes (CKA), Databricks Data Engineering Cert
 
 
 
