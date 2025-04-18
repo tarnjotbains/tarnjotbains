@@ -21,10 +21,6 @@
 [<img src="https://templates.images.credential.net/17101809756309293264232760886460.png" width="150" align="left">](https://credentials.databricks.com/57b74553-ced4-48b5-8ea6-d81ab81f2ca9#acc.bpg1tTcx)
 [<img src="https://templates.images.credential.net/17101809577790311786651162145983.png" width="150" align="left">](https://credentials.databricks.com/3c7ab4ec-e8ac-4fa0-a772-7f321c9b60ea#acc.6XRrC043)
 
-<p align="right">
-  <img width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB3dWVxMjdobjY0eDNydHA5aDh4aHVma2d4Zm00amI0bmVkczB6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif">
-</p>
-
 <!--
 **tarnjotbains/tarnjotbains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
