@@ -1,4 +1,4 @@
 <h2> Tarnjot Bains </h2>
 
 
-**AI Scientist** @ Zebra Technologies building scalable pipelines.
+**AI Scientist** @ Zebra Technologies.
